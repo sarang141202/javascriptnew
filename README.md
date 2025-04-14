@@ -1,0 +1,2 @@
+# javascriptnew
+code of js.
